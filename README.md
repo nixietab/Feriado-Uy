@@ -1,7 +1,7 @@
 # Feriado-Uy
 Un script mínimo sigle-file de PHP que cuenta cuantos días faltan para el próximo feriado uruguayo de la manera mas mínima posible.
 
-Demo: [Helene.tk/feriado/uy](https://helene.tk/feriado)
+Demo: [Helene.tk/feriado/uy](https://helene.tk/feriado/uy)
 
 ![Imagen de como es el display del programa](https://imgur.com/gXsCYhW.png)
 
